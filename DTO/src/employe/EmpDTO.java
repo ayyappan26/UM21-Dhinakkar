@@ -8,7 +8,7 @@ package employe;
 		  public String last_name;
 		  public float salary;
 		  public String department;
-		  
+		  public int n;
 		 
 		  public int getEmpid() {
 			return empid;
